@@ -43,7 +43,7 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href=""https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html rel="nofollow">https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html</a>
+  Live Demo: <a href="https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html" rel="nofollow">https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/ample-admin-lite/" rel="nofollow">
