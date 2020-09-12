@@ -11,7 +11,10 @@
 
 <!-- Description of Template -->
 <p>
- Lorem ipsume
+How about using a flexible and responsive design template bootstrap base for your next project? Ample Bootstrap Admin is the most suitable template when your biggest concern is budget.
+</p>
+<p>
+    When you download this template it also provides essential yet basic components and features that are capable of executing complex functions with a bunch of widgets. This <a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">free admin dashboard template bootstrap 4</a> also offers 100+ font options making it sure that your project looks innovative, elegant and vibrant. If you are looking to enhance the user experience with advanced and more components as well as features you can opt-in for the premium version of this template.
 </p>
 
 <!-- Versions of Template -->
