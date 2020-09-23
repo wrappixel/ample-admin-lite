@@ -4,7 +4,7 @@
  */
 @font-face {
   font-family: 'Material-Design-Iconic-Font';
-  src: url('../fonts/Material-Design-Iconic-Font.woff2?v=2.2.0') format('woff2'), url('../fonts/Material-Design-Iconic-Font.woff?v=2.2.0') format('woff'), url('../fonts/Material-Design-Iconic-Font.ttf?v=2.2.0') format('truetype');
+  src: url('..//fonts/Material-Design-Iconic-Font.woff2?v=2.2.0') format('woff2'), url('..//fonts/Material-Design-Iconic-Font.woff?v=2.2.0') format('woff'), url('..//fonts/Material-Design-Iconic-Font.ttf?v=2.2.0') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -1537,7 +1537,7 @@
 .zmdi-scanner:before {
   content: '\f2c7';
 }
-.zmdi-smartphone-android:before {
+.zmdi-smartphone-andrAdminid:before {
   content: '\f2c8';
 }
 .zmdi-smartphone-download:before {
@@ -1579,7 +1579,7 @@
 .zmdi-speaker:before {
   content: '\f2d5';
 }
-.zmdi-tablet-android:before {
+.zmdi-tablet-andrAdminid:before {
   content: '\f2d6';
 }
 .zmdi-tablet-mac:before {
@@ -1879,10 +1879,10 @@
 .zmdi-timer:before {
   content: '\f339';
 }
-.zmdi-android-alt:before {
+.zmdi-andrAdminid-alt:before {
   content: '\f33a';
 }
-.zmdi-android:before {
+.zmdi-andrAdminid:before {
   content: '\f33b';
 }
 .zmdi-apple:before {
@@ -3868,7 +3868,7 @@
 .zmdi-scanner:before {
   content: '\f2c7';
 }
-.zmdi-smartphone-android:before {
+.zmdi-smartphone-andrAdminid:before {
   content: '\f2c8';
 }
 .zmdi-smartphone-download:before {
@@ -3910,7 +3910,7 @@
 .zmdi-speaker:before {
   content: '\f2d5';
 }
-.zmdi-tablet-android:before {
+.zmdi-tablet-andrAdminid:before {
   content: '\f2d6';
 }
 .zmdi-tablet-mac:before {
@@ -4210,10 +4210,10 @@
 .zmdi-timer:before {
   content: '\f339';
 }
-.zmdi-android-alt:before {
+.zmdi-andrAdminid-alt:before {
   content: '\f33a';
 }
-.zmdi-android:before {
+.zmdi-andrAdminid:before {
   content: '\f33b';
 }
 .zmdi-apple:before {
