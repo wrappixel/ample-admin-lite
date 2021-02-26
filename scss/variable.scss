@@ -2,7 +2,7 @@
 // Custom layout variables
 // ======================================================
 
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900');
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800);
 
 // ======================================================
 // Theme Global setting colors
@@ -109,7 +109,7 @@ $gray-500: #adb5bd !default;
 $gray-600: #8898aa !default;
 $gray-700: #525f7f !default;
 $gray-800: #313131 !default;
-$gray-900: #797979 !default;
+$gray-900: #3e5569 !default;
 $black: #000 !default;
 $cyan: #4fc3f7 !default;
 $info: #2cabe3 !default;
@@ -176,7 +176,7 @@ $link-hover-decoration: none !default;
 // Typography
 // ======================================================
 $font-size-base: 0.875rem !default;
-$font-family-sans-serif: 'Rubik',sans-serif !default;
+$font-family-sans-serif: "Nunito Sans",sans-serif !default;
 $font-weight-light: 300 !default;
 $font-weight-normal: 400 !default;
 $font-weight-medium: 500 !default;
@@ -192,14 +192,25 @@ $display7-weight: 300 !default;
 
 // heading fonts setting
 $h1-font-size: 36px !default;
-$h2-font-size: 24px !default;
-$h3-font-size: 21px !default;
+$h2-font-size: 30px !default;
+$h3-font-size: 24px !default;
 $h4-font-size: 18px !default;
-$h5-font-size: 14px !default;
-$h6-font-size: 12px !default;
+$h5-font-size: 16px !default;
+$h6-font-size: 14px !default;
 $headings-margin-bottom: (1rem / 2) !default;
 $headings-font-weight: 400 !default;
 $headings-color: inherit !default;
+
+// Font size
+$font-sizes: (
+  1: 10px,
+  2: 12px,
+  3: 14px,
+  4: 16px,
+  5: 18px,
+  6: 20px,
+  7: 24px,
+);
 
 // --------------------------------------------------------------------- //
 //              Bootstrap Component override setting
