@@ -14,7 +14,7 @@
 How about using a flexible and responsive design template bootstrap base for your next project? Ample Bootstrap Admin is the most suitable template when your biggest concern is budget.
 </p>
 <p>
-    When you download this template it also provides essential yet basic components and features that are capable of executing complex functions with a bunch of widgets. This <a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">free admin dashboard template bootstrap 4</a> also offers 100+ font options making it sure that your project looks innovative, elegant and vibrant. If you are looking to enhance the user experience with advanced and more components as well as features you can opt-in for the premium version of this template.
+    When you download this template it also provides essential yet basic components and features that are capable of executing complex functions with a bunch of widgets. This <a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">free admin dashboard template bootstrap 5</a> also offers 100+ font options making it sure that your project looks innovative, elegant and vibrant. If you are looking to enhance the user experience with advanced and more components as well as features you can opt-in for the premium version of this template.
 </p>
 
 <!-- Versions of Template -->
@@ -61,7 +61,7 @@ How about using a flexible and responsive design template bootstrap base for you
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -92,7 +92,7 @@ How about using a flexible and responsive design template bootstrap base for you
 <ul>
 <li><a href="https://www.wrappixel.com/templates/category/admin-template/">Free Admin Templates</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/">Bootstrap Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 4 Dashboard</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 5 Dashboard</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Material Template</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Templates</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue Templates</a> from WrapPixel</li>
