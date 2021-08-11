@@ -42,7 +42,6 @@ $topbar-mailbox-width: 300px;
 $topbar-mailbox-height: 317px;
 $topbar-droptitle-bg: url(../../assets/images/background/img5.png) no-repeat;
 
-
 // ======================================================
 // Sidebar settings
 // ======================================================
@@ -118,18 +117,18 @@ $green: #7ace4c !default;
 $theme-colors: () !default;
 $theme-colors: map-merge(
   (
-    'primary': #707cd2,
-    'secondary': $gray-600,
-    'success': $green,
-    'info': $info,
-    'warning': #ffc36d,
-    'danger': $red,
-    'light': $gray-100,
-    'dark': $gray-800,
-    'cyan': #4fc3f7,
-    'orange': #ffc36d,
-    'purple': #707cd2,
-    'inverse': #4c5667
+    "primary": #707cd2,
+    "secondary": $gray-600,
+    "success": $green,
+    "info": $info,
+    "warning": #ffc36d,
+    "danger": $red,
+    "light": $gray-100,
+    "dark": $gray-800,
+    "cyan": #4fc3f7,
+    "orange": #ffc36d,
+    "purple": #707cd2,
+    "inverse": #4c5667,
   ),
   $theme-colors
 );
@@ -137,16 +136,16 @@ $theme-colors: map-merge(
 $brand-colors: () !default;
 $brand-colors: map-merge(
   (
-    'facebook': #3b5999,
-    'twitter': #1da1f2,
-    'googleplus': #dd4b39,
-    'instagram': #e4405f,
-    'pinterest': #bd081c,
-    'youtube': #cd201f,
-    'linkedin': #007bb6,
-    'slack': #3aaf85,
-    'dribbble': #ea4c89,
-    'github': #222222
+    "facebook": #3b5999,
+    "twitter": #1da1f2,
+    "googleplus": #dd4b39,
+    "instagram": #e4405f,
+    "pinterest": #bd081c,
+    "youtube": #cd201f,
+    "linkedin": #007bb6,
+    "slack": #3aaf85,
+    "dribbble": #ea4c89,
+    "github": #222222,
   ),
   $brand-colors
 );
@@ -169,14 +168,13 @@ $box-shadow-sm: 0 0.125rem 0.25rem rgba($black, 0.075) !default;
 $box-shadow: 0 0.5rem 1rem rgba($black, 0.08) !default;
 $box-shadow-lg: 0 1rem 3rem rgba($black, 0.175) !default;
 
-
 $link-hover-decoration: none !default;
 
 // ======================================================
 // Typography
 // ======================================================
 $font-size-base: 0.875rem !default;
-$font-family-sans-serif: "Nunito Sans",sans-serif !default;
+$font-family-sans-serif: "Nunito Sans", sans-serif !default;
 $font-weight-light: 300 !default;
 $font-weight-normal: 400 !default;
 $font-weight-medium: 500 !default;
@@ -281,8 +279,8 @@ $custom-select-indicator: url(../../assets/images/custom-select.png) !default;
 $input-btn-focus-box-shadow: transparent !default;
 $custom-select-focus-box-shadow: transparent !default;
 $custom-select-indicator: str-replace(
-  url('../../assets/images/custom-select.png'),
-  '%23'
+  url("../../assets/images/custom-select.png"),
+  "%23"
 ) !default;
 $custom-control-indicator-box-shadow: none !default;
 $custom-select-box-shadow: none !default;
@@ -292,7 +290,7 @@ $custom-control-indicator-checked-box-shadow: $custom-control-indicator-box-shad
 
 // Define common padding and border radius sizes and more.
 $border-width: 1px !default;
-$border-color: rgba(120,130,140,.13) !default;
+$border-color: rgba(120, 130, 140, 0.13) !default;
 $border-radius: 2px !default;
 $border-radius-lg: 4px !default;
 $border-radius-sm: 1px !default;
@@ -312,12 +310,12 @@ $grid-breakpoints: (
   md: 768px,
   lg: 992px,
   xl: 1200px,
-  xlg: 1600px
+  xlg: 1600px,
 ) !default;
 
 // Navbar
 $navbar-dark-color: rgba($white, 0.9) !default;
-$navbar-light-color: rgba($black, .6) !default;
+$navbar-light-color: rgba($black, 0.6) !default;
 $navbar-dark-hover-color: rgba($white, 1) !default;
 
 // Modal
@@ -332,5 +330,3 @@ $nav-tabs-link-hover-border-color: $gray-200 $gray-200 $nav-tabs-border-color !d
 $nav-tabs-link-active-color: $gray-700 !default;
 $nav-tabs-link-active-bg: $body-bg !default;
 $nav-tabs-link-active-border-color: $gray-300 $gray-300 $nav-tabs-link-active-bg !default;
-
-
