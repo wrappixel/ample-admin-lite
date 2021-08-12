@@ -1,0 +1,37 @@
+// form
+.form-horizontal {
+  .form-group {
+    .btn-success {
+      color: $white;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+    label {
+      font-weight: 500;
+    }
+    .form-control,
+    .form-select {
+      background-color: rgba(0, 0, 0, 0);
+      background-position: center bottom, center calc(99%);
+      background-repeat: no-repeat;
+      background-size: 0 2px, 100% 1px;
+      padding: 0;
+      transition: background 0s ease-out 0s;
+      &:focus {
+        background-image: linear-gradient(#707cd2, #707cd2),
+          linear-gradient(rgba(120, 130, 140, 0.13), rgba(120, 130, 140, 0.13));
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+        float: none;
+        background-size: 100% 2px, 100% 1px;
+        outline: 0;
+        transition-duration: 0.3s;
+      }
+      &::placeholder {
+        font-weight: 300;
+      }
+    }
+  }
+}
