@@ -1,7 +1,7 @@
 <!-- # ample-admin-lite -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html">Ample Bootstrap Admin Lite</a>
+  <a href="https://www.wrappixel.com/templates/ample-admin-lite/">Ample Bootstrap Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -46,7 +46,7 @@ How about using a flexible and responsive design template bootstrap base for you
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html" rel="nofollow">https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/ample-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/ample-bootstrap-free/landingpage/index.html</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/ample-admin-lite/" rel="nofollow">
@@ -84,7 +84,7 @@ How about using a flexible and responsive design template bootstrap base for you
 </a>
 <p>
    Checkout our premium version of Ample Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-sidebar/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ampleadmin/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/ample-bootstrap/package/html/ampleadmin-sidebar/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ampleadmin/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
