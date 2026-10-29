@@ -1,4 +1,4 @@
-# <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/ample-bootstrap-free/html/index.html">Ample Admin Free</a>
+# <a href="https://wrappixel.com/templates/materialm-free-bootstrap-admin">Ample Admin Free</a>
 Ample Bootstrap Dashboard Template
 
 # Compare with Premium Version 🌓
