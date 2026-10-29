@@ -1,12 +1,6 @@
 # <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/ample-bootstrap-free/html/index.html">Ample Admin Free</a>
 Ample Bootstrap Dashboard Template
 
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/ample-admin-lite/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/ample-free-bootstrap-5-admin-wpn.jpg" />
-</a>
-
-
 # Compare with Premium Version 🌓
 
 <table>
@@ -19,18 +13,18 @@ Ample Bootstrap Dashboard Template
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/ample-bootstrap-free/html/index.html">Live Preview</a>
+    <a href="https://bootstrapdemos.wrappixel.com/MaterialM-free/src/html/index.html">Live Preview</a>
   </td>
   <td>
-  <a href="https://bootstrapdemos.wrappixel.com/ample/dist/main/index.html">Live Preview</a>
+  <a href="https://materialm-react-tailwind-main.netlify.app">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="https://www.wrappixel.com/templates/ample-admin-lite/">Download Now</a>
+      <a href="https://wrappixel.com/templates/ample-admin-lite"><b>Download Now</b></a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/ampleadmin/?ref=33">Purchase Now</a>
+    <a href="https://wrappixel.com/templates/ampleadmin?ref=33"><b>Purchase Now</b></a>
   </td>
 </tr>
 <tr>
@@ -134,12 +128,12 @@ Ample Bootstrap Dashboard Template
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/ampleadmin/?ref=33">
+<a target="_blank" href="https://wrappixel.com/templates/ampleadmin?ref=33">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/ample-boostrap-admin-wpn.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of AmpleAdmin Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://bootstrapdemos.wrappixel.com/ample/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ampleadmin/?ref=33">Download</a>
+  <a href="https://materialm-react-tailwind-main.netlify.app">Check Live Preview</a> | <a href="https://wrappixel.com/templates/ampleadmin?ref=33"><b>Download</b></a>
 </p>
 
 <!-- Versions of Template -->
@@ -155,17 +149,17 @@ Ample Bootstrap Dashboard Template
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/ampleadmin/" width="150px">
+  <a href="https://wrappixel.com/templates/ampleadmin" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/ample-boostrap-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/ample-admin-angular/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/ample-admin-angular" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/" width="150px">
+  <a href="https://wrappixel.com/templates/ample-nextjs-admin-dashboard" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -181,17 +175,17 @@ Ample Bootstrap Dashboard Template
 
 <!-- Useful Links of Template -->
 # Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com"><b>Admin Theme</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro"><b>Bootstrap Themes</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-lite"><b>Free Bootstrap Admin Templates</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-react-redux-admin"><b>React Bootstrap Template</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-vuetify-admin"><b>Vuejs Templates</b></a> from Wrappixel</p>
 
 
 <!-- Licensing of Template -->
 # Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+- <p>Copyright 2024 Wrappixel <a href="https://wrappixel.com"><b>https://wrappixel.com</b></a></p>
+- <p>Licensed under MIT <a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a></p>
 
 
 <!-- Social Media of Adminmart -->
@@ -203,4 +197,3 @@ Ample Bootstrap Dashboard Template
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 - <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
 - <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
-
